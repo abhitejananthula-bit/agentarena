@@ -1,0 +1,7 @@
+log_id,employee_id,incident_type,severity,summary,resolved
+LOG-001,EMP-1006,account_compromise,high,Prof. Miller's account was compromised via credential phishing; unauthorized outbound emails were detected and credentials were reset.,True
+LOG-002,EMP-1007,phishing_target,medium,Procurement officer targeted with fake invoice attached from typosquat vendor domain apex-labs-procurement.xyz.,True
+LOG-003,EMP-1002,executive_impersonation,high,External attacker attempted gift card scam using Dean Rostova's name from external Gmail account.,True
+LOG-004,EMP-1004,credential_harvesting,critical,Fake IT SSO portal detected hosted on secure-login-sentinel.net; domain blocked at firewall.,True
+LOG-005,EMP-1005,routine_audit,low,Annual SOC email policy audit completed. All internal mail relays verified.,True
+LOG-006,EMP-1003,financial_fraud_attempt,high,Spoofed wire transfer request targeting CFO Marcus Thorne blocked by policy POL-002.,True

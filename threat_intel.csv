@@ -1,0 +1,11 @@
+domain_id,domain,domain_age_days,reputation,lookalike_of,threat_score,known_tags
+DOM-101,sentinel-acme-support.com,3,malicious,sentinel-acme.edu,95,"[""typosquatting"", ""credential_harvesting""]"
+DOM-102,sentinel-acme.co,5,malicious,sentinel-acme.edu,90,"[""typosquatting"", ""executive_impersonation""]"
+DOM-103,apex-labs-procurement.xyz,2,malicious,apex-lab-supplies.com,88,"[""payment_scam"", ""phishing_infrastructure""]"
+DOM-104,secure-login-sentinel.net,1,malicious,sentinel-acme.edu,98,"[""credential_harvesting"", ""fake_sso""]"
+DOM-105,tech-symposium-2026.org,45,suspicious,,55,"[""unverified_organizer"", ""external_marketing""]"
+DOM-106,fast-reward-cards.biz,4,malicious,,92,"[""gift_card_scam"", ""financial_fraud""]"
+DOM-107,quantum-computing-workshop.edu.in,320,safe,,5,"[""academic_partner""]"
+DOM-108,cloud-storage-portal.com,180,safe,,12,"[""legitimate_service""]"
+DOM-109,sentinel-acme-verify.info,2,malicious,sentinel-acme.edu,96,"[""prompt_injection_host"", ""phishing_infrastructure""]"
+DOM-110,regional-robotics-league.org,410,safe,,8,"[""event_partner""]"

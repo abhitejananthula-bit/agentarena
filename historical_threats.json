@@ -1,0 +1,50 @@
+[
+  {
+    "log_id": "LOG-001",
+    "employee_id": "EMP-1006",
+    "incident_type": "account_compromise",
+    "severity": "high",
+    "summary": "Prof. Miller's account was compromised via credential phishing; unauthorized outbound emails were detected and credentials were reset.",
+    "resolved": true
+  },
+  {
+    "log_id": "LOG-002",
+    "employee_id": "EMP-1007",
+    "incident_type": "phishing_target",
+    "severity": "medium",
+    "summary": "Procurement officer targeted with fake invoice attached from typosquat vendor domain apex-labs-procurement.xyz.",
+    "resolved": true
+  },
+  {
+    "log_id": "LOG-003",
+    "employee_id": "EMP-1002",
+    "incident_type": "executive_impersonation",
+    "severity": "high",
+    "summary": "External attacker attempted gift card scam using Dean Rostova's name from external Gmail account.",
+    "resolved": true
+  },
+  {
+    "log_id": "LOG-004",
+    "employee_id": "EMP-1004",
+    "incident_type": "credential_harvesting",
+    "severity": "critical",
+    "summary": "Fake IT SSO portal detected hosted on secure-login-sentinel.net; domain blocked at firewall.",
+    "resolved": true
+  },
+  {
+    "log_id": "LOG-005",
+    "employee_id": "EMP-1005",
+    "incident_type": "routine_audit",
+    "severity": "low",
+    "summary": "Annual SOC email policy audit completed. All internal mail relays verified.",
+    "resolved": true
+  },
+  {
+    "log_id": "LOG-006",
+    "employee_id": "EMP-1003",
+    "incident_type": "financial_fraud_attempt",
+    "severity": "high",
+    "summary": "Spoofed wire transfer request targeting CFO Marcus Thorne blocked by policy POL-002.",
+    "resolved": true
+  }
+]

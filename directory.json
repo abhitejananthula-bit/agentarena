@@ -1,0 +1,110 @@
+[
+  {
+    "id": "EMP-1001",
+    "name": "Dr. Aris Vance",
+    "official_email": "aris.vance@sentinel-acme.edu",
+    "role": "Vice Chancellor",
+    "department": "Executive Office",
+    "account_status": "active",
+    "is_executive": true
+  },
+  {
+    "id": "EMP-1002",
+    "name": "Prof. Elena Rostova",
+    "official_email": "elena.rostova@sentinel-acme.edu",
+    "role": "Dean of Computer Science",
+    "department": "Computer Science Dept",
+    "account_status": "active",
+    "is_executive": true
+  },
+  {
+    "id": "EMP-1003",
+    "name": "Marcus Thorne",
+    "official_email": "marcus.thorne@sentinel-acme.edu",
+    "role": "Chief Financial Officer",
+    "department": "Finance & Treasury",
+    "account_status": "active",
+    "is_executive": true
+  },
+  {
+    "id": "EMP-1004",
+    "name": "David Chen",
+    "official_email": "david.chen@sentinel-acme.edu",
+    "role": "Lead Systems Administrator",
+    "department": "IT Services",
+    "account_status": "active",
+    "is_executive": false
+  },
+  {
+    "id": "EMP-1005",
+    "name": "Priya Sharma",
+    "official_email": "priya.sharma@sentinel-acme.edu",
+    "role": "Information Security Analyst",
+    "department": "SOC & Cyber Operations",
+    "account_status": "active",
+    "is_executive": false
+  },
+  {
+    "id": "EMP-1006",
+    "name": "Dr. Robert Miller",
+    "official_email": "robert.miller@sentinel-acme.edu",
+    "role": "Professor of Robotics",
+    "department": "Mechanical Engineering Dept",
+    "account_status": "active",
+    "is_executive": false
+  },
+  {
+    "id": "EMP-1007",
+    "name": "Sarah Jenkins",
+    "official_email": "sarah.jenkins@sentinel-acme.edu",
+    "role": "Senior Procurement Officer",
+    "department": "Finance & Treasury",
+    "account_status": "active",
+    "is_executive": false
+  },
+  {
+    "id": "EMP-1008",
+    "name": "James Wilson",
+    "official_email": "james.wilson@sentinel-acme.edu",
+    "role": "Academic Registrar",
+    "department": "Student Affairs",
+    "account_status": "active",
+    "is_executive": false
+  },
+  {
+    "id": "EMP-1009",
+    "name": "Anita Roy",
+    "official_email": "anita.roy@sentinel-acme.edu",
+    "role": "Research Assistant",
+    "department": "AI Research Lab",
+    "account_status": "active",
+    "is_executive": false
+  },
+  {
+    "id": "EMP-1010",
+    "name": "Carlos Mendez",
+    "official_email": "carlos.mendez@sentinel-acme.edu",
+    "role": "Facilities Manager",
+    "department": "Campus Operations",
+    "account_status": "active",
+    "is_executive": false
+  },
+  {
+    "id": "EMP-1011",
+    "name": "Emily Watson",
+    "official_email": "emily.watson@sentinel-acme.edu",
+    "role": "HR Coordinator",
+    "department": "Human Resources",
+    "account_status": "active",
+    "is_executive": false
+  },
+  {
+    "id": "EMP-1012",
+    "name": "Vikram Patel",
+    "official_email": "vikram.patel@sentinel-acme.edu",
+    "role": "Network Engineer",
+    "department": "IT Infrastructure",
+    "account_status": "active",
+    "is_executive": false
+  }
+]

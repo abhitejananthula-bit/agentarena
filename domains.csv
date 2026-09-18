@@ -1,0 +1,7 @@
+domain_id,domain,category,owner
+DOM-001,sentinel-acme.edu,official,Sentinel Acme University
+DOM-002,mail.sentinel-acme.edu,official,Sentinel Acme University Mail Gateway
+DOM-003,global-research-council.org,partner,Global Higher Education Research Council
+DOM-004,apex-lab-supplies.com,partner,Apex Scientific Supplies Inc
+DOM-005,national-ed-cloud.gov,partner,Department of Higher Education Cloud Portal
+DOM-006,academic-publishing-hub.net,partner,International Academic Publishing Network

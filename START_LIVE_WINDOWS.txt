@@ -1,0 +1,20 @@
+SENTINELZERO v6 — LIVE SUBMISSION (WINDOWS)
+
+1) Open CMD in this folder.
+2) Create environment:
+   py -m venv .venv
+3) Activate:
+   .venv\Scripts\activate
+4) Install:
+   py -m pip install -r requirements.txt
+5) Create local .env from .env.example and replace the token with your real bearer token.
+6) Verify the token is present WITHOUT printing it:
+   powershell -NoProfile -Command "$x=Get-Content .env; if($x -match '^SUBMISSION_BEARER_TOKEN=.{10,}$' -and -not ($x -match 'PASTE_YOUR_REAL_BEARER_TOKEN_HERE')) { 'TOKEN_PRESENT' } else { 'TOKEN_MISSING_OR_PLACEHOLDER' }"
+7) Run the live submission:
+   python main.py --mode submission
+
+IMPORTANT:
+- Do not start the local mock simulator for live submission.
+- Do not use --once or --max-tasks in submission mode.
+- Do not share your .env or bearer token.
+- Only the v6 agent.py is intended for this final run.

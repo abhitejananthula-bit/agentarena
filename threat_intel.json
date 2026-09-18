@@ -1,0 +1,92 @@
+[
+  {
+    "domain_id": "DOM-101",
+    "domain": "sentinel-acme-support.com",
+    "domain_age_days": 3,
+    "reputation": "malicious",
+    "lookalike_of": "sentinel-acme.edu",
+    "threat_score": 95,
+    "known_tags": ["typosquatting", "credential_harvesting"]
+  },
+  {
+    "domain_id": "DOM-102",
+    "domain": "sentinel-acme.co",
+    "domain_age_days": 5,
+    "reputation": "malicious",
+    "lookalike_of": "sentinel-acme.edu",
+    "threat_score": 90,
+    "known_tags": ["typosquatting", "executive_impersonation"]
+  },
+  {
+    "domain_id": "DOM-103",
+    "domain": "apex-labs-procurement.xyz",
+    "domain_age_days": 2,
+    "reputation": "malicious",
+    "lookalike_of": "apex-lab-supplies.com",
+    "threat_score": 88,
+    "known_tags": ["payment_scam", "phishing_infrastructure"]
+  },
+  {
+    "domain_id": "DOM-104",
+    "domain": "secure-login-sentinel.net",
+    "domain_age_days": 1,
+    "reputation": "malicious",
+    "lookalike_of": "sentinel-acme.edu",
+    "threat_score": 98,
+    "known_tags": ["credential_harvesting", "fake_sso"]
+  },
+  {
+    "domain_id": "DOM-105",
+    "domain": "tech-symposium-2026.org",
+    "domain_age_days": 45,
+    "reputation": "suspicious",
+    "lookalike_of": null,
+    "threat_score": 55,
+    "known_tags": ["unverified_organizer", "external_marketing"]
+  },
+  {
+    "domain_id": "DOM-106",
+    "domain": "fast-reward-cards.biz",
+    "domain_age_days": 4,
+    "reputation": "malicious",
+    "lookalike_of": null,
+    "threat_score": 92,
+    "known_tags": ["gift_card_scam", "financial_fraud"]
+  },
+  {
+    "domain_id": "DOM-107",
+    "domain": "quantum-computing-workshop.edu.in",
+    "domain_age_days": 320,
+    "reputation": "safe",
+    "lookalike_of": null,
+    "threat_score": 5,
+    "known_tags": ["academic_partner"]
+  },
+  {
+    "domain_id": "DOM-108",
+    "domain": "cloud-storage-portal.com",
+    "domain_age_days": 180,
+    "reputation": "safe",
+    "lookalike_of": null,
+    "threat_score": 12,
+    "known_tags": ["legitimate_service"]
+  },
+  {
+    "domain_id": "DOM-109",
+    "domain": "sentinel-acme-verify.info",
+    "domain_age_days": 2,
+    "reputation": "malicious",
+    "lookalike_of": "sentinel-acme.edu",
+    "threat_score": 96,
+    "known_tags": ["prompt_injection_host", "phishing_infrastructure"]
+  },
+  {
+    "domain_id": "DOM-110",
+    "domain": "regional-robotics-league.org",
+    "domain_age_days": 410,
+    "reputation": "safe",
+    "lookalike_of": null,
+    "threat_score": 8,
+    "known_tags": ["event_partner"]
+  }
+]

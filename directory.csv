@@ -1,0 +1,13 @@
+id,name,official_email,role,department,account_status,is_executive
+EMP-1001,Dr. Aris Vance,aris.vance@sentinel-acme.edu,Vice Chancellor,Executive Office,active,True
+EMP-1002,Prof. Elena Rostova,elena.rostova@sentinel-acme.edu,Dean of Computer Science,Computer Science Dept,active,True
+EMP-1003,Marcus Thorne,marcus.thorne@sentinel-acme.edu,Chief Financial Officer,Finance & Treasury,active,True
+EMP-1004,David Chen,david.chen@sentinel-acme.edu,Lead Systems Administrator,IT Services,active,False
+EMP-1005,Priya Sharma,priya.sharma@sentinel-acme.edu,Information Security Analyst,SOC & Cyber Operations,active,False
+EMP-1006,Dr. Robert Miller,robert.miller@sentinel-acme.edu,Professor of Robotics,Mechanical Engineering Dept,active,False
+EMP-1007,Sarah Jenkins,sarah.jenkins@sentinel-acme.edu,Senior Procurement Officer,Finance & Treasury,active,False
+EMP-1008,James Wilson,james.wilson@sentinel-acme.edu,Academic Registrar,Student Affairs,active,False
+EMP-1009,Anita Roy,anita.roy@sentinel-acme.edu,Research Assistant,AI Research Lab,active,False
+EMP-1010,Carlos Mendez,carlos.mendez@sentinel-acme.edu,Facilities Manager,Campus Operations,active,False
+EMP-1011,Emily Watson,emily.watson@sentinel-acme.edu,HR Coordinator,Human Resources,active,False
+EMP-1012,Vikram Patel,vikram.patel@sentinel-acme.edu,Network Engineer,IT Infrastructure,active,False

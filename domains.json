@@ -1,0 +1,38 @@
+[
+  {
+    "domain_id": "DOM-001",
+    "domain": "sentinel-acme.edu",
+    "category": "official",
+    "owner": "Sentinel Acme University"
+  },
+  {
+    "domain_id": "DOM-002",
+    "domain": "mail.sentinel-acme.edu",
+    "category": "official",
+    "owner": "Sentinel Acme University Mail Gateway"
+  },
+  {
+    "domain_id": "DOM-003",
+    "domain": "global-research-council.org",
+    "category": "partner",
+    "owner": "Global Higher Education Research Council"
+  },
+  {
+    "domain_id": "DOM-004",
+    "domain": "apex-lab-supplies.com",
+    "category": "partner",
+    "owner": "Apex Scientific Supplies Inc"
+  },
+  {
+    "domain_id": "DOM-005",
+    "domain": "national-ed-cloud.gov",
+    "category": "partner",
+    "owner": "Department of Higher Education Cloud Portal"
+  },
+  {
+    "domain_id": "DOM-006",
+    "domain": "academic-publishing-hub.net",
+    "category": "partner",
+    "owner": "International Academic Publishing Network"
+  }
+]
